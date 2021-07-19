@@ -1,6 +1,6 @@
 using System;
 
-namespace learn_live_rbac.Models
+namespace UserGroupRole.Models
 {
     public class ErrorViewModel
     {

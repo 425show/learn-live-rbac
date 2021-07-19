@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using learn_live_rbac.Models;
+using UserGroupRole.Models;
 
-namespace learn_live_rbac.Controllers
+namespace UserGroupRole.Controllers
 {
     [Authorize]
     public class HomeController : Controller

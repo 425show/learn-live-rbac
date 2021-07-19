@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <UserSecretsId>aspnet-learn_live_rbac-D33AF4A7-78E9-48D2-884D-C0BBB566CFAB</UserSecretsId>
+    <UserSecretsId>aspnet-UserGroupRole-D33AF4A7-78E9-48D2-884D-C0BBB566CFAB</UserSecretsId>
     <RootNamespace>UserGroupRole</RootNamespace>
   </PropertyGroup>
 

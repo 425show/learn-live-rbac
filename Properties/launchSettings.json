@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "learn_live_rbac": {
+    "UserGroupRole": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
